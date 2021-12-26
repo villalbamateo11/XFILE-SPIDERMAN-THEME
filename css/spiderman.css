@@ -1,0 +1,90 @@
+.fondo{
+    background-image: url(/imagenes/mj1.jpg);
+    width: fit-content;
+    height:fit-content;
+    background-position-x: auto;
+    background-position-y: center;
+    overflow: visible;
+    object-fit: cover;
+    margin-top: 10px;
+}
+
+.fondoSI{
+    background-image: url(/imagenes/besomj.jpg);
+    width: fit-content;
+    height:fit-content;
+    background-position-x: auto;
+    background-position-y: center;
+    overflow: visible;
+    object-fit: cover;
+    margin-top: 10px;
+}
+
+.fondoNO{
+    background-image: url(/imagenes/spidermanllorando.jpg);
+    width: fit-content;
+    height:fit-content;
+    background-position-x: auto;
+    background-position-y: center;
+    overflow: visible;
+    object-fit: cover;
+    margin-top: 10px;
+}
+
+.invitacion{
+font-size: 50px;
+color: black;
+border: double;
+background-color: aliceblue;
+text-align: center;
+}
+
+.botones{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25%;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.botonSI{
+    font-size: 30px;
+    color: black;
+    border: double;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.botonNO{
+    font-size: 30px;
+    color: black;
+    border: double;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.festejo{
+        font-size: 50px;
+        color: black;
+        border: double;
+        background-color: aliceblue;
+        text-align: center;
+        margin-top: 150px;
+        }
+
+.carta{
+font-size: 30px;
+color: black;
+border: double;
+background-color: aliceblue;
+text-align: center;
+}
+
+.volve{
+    font-size: 30px;
+    color: black;
+    border: double;
+    background-color: aliceblue;
+    text-align: center;
+margin-left: 35%;
+}
