@@ -10,7 +10,7 @@
 }
 
 .fondoSI{
-    background-image: url(/imagenes/besomj.jpg);
+    background-image: url(../imagenes/besomj.jpg);
     width: fit-content;
     height:fit-content;
     background-position-x: auto;
@@ -21,7 +21,7 @@
 }
 
 .fondoNO{
-    background-image: url(/imagenes/spidermanllorando.jpg);
+    background-image: url(../imagenes/spidermanllorando.jpg);
     width: fit-content;
     height:fit-content;
     background-position-x: auto;
