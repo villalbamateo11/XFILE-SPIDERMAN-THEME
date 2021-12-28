@@ -1,5 +1,5 @@
 .fondo{
-    background-image: url(/imagenes/mj1.jpg);
+    background-image: url(../imagenes/mj1.jpg);
     width: fit-content;
     height:fit-content;
     background-position-x: auto;
